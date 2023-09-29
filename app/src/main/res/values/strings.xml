@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dogs</string>
+
+    <string name="searchFragment">Search fragment</string>
+    <string name="profileFragment">Profile fragment</string>
+    <string name="main">main\n</string>
+    <string name="search">search</string>
+    <string name="my_profile">profile</string>
+</resources>

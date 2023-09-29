@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dogsFragment"
+        android:title="@string/main"
+        android:visible="true"
+        android:menuCategory="secondary"
+        android:icon="@drawable/dog_icon"
+        />
+
+    <item android:id="@+id/searchFragment"
+        android:title="@string/search"
+        android:visible="true"
+        android:menuCategory="secondary"
+        android:icon="@drawable/search_icon"
+        />
+
+    <item android:id="@+id/profileFragment"
+        android:title="@string/my_profile"
+        android:menuCategory="secondary"
+        android:icon="@drawable/profile_icon"
+         />
+</menu>
